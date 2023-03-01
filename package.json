@@ -1,7 +1,7 @@
 {
   "name": "react-homework-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://VictoriaMyzyniuk.github.io/to-do-list/",
   "dependencies": {
     "@emotion/styled": "^11.10.6",
