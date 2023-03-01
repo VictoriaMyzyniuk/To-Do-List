@@ -2,7 +2,7 @@ import { createSlice } from '@reduxjs/toolkit';
 
 const toDoInitialState = {
   toDoItems: [],
-  currentId: 6,
+  currentId: 1,
 };
 
 export const toDoSlice = createSlice({
