@@ -14,7 +14,6 @@ export const toDoSlice = createSlice({
       state.currentId += 1;
     },
     toggleStatus(state, action) {
-      console.log(action);
       state.toDoItems = state.toDoItems.map(item => {
         if (item.id !== action.payload) {
           return item;
